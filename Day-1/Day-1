@@ -14,5 +14,5 @@ function powerOn() {
   Description:
     Changes `powerOn` property of object `ship` to  true.
   */
-  ship.powerOn = `true`
+  ship.powerOn = `true`;
 }
