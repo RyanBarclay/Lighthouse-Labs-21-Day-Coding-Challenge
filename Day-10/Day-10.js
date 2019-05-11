@@ -102,3 +102,5 @@ string = `communication`;
 loadModule(findModuleIndex(string));
 
 setMessage(navigation);
+
+activateBeacon();
