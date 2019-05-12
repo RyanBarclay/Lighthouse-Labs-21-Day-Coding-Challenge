@@ -25,6 +25,7 @@ function countModules() {
 function countEssential() {
   /*
   Description:
+    Counts the amount of modules from the the avaiableModules that have the essential flag set.
   */
   let curCount = 0;
   for (var i = 0; i < availableModules.length; i++) {
