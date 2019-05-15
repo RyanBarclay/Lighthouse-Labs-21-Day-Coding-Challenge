@@ -164,5 +164,3 @@ loadModule(findModuleIndex(string));
 setMessage(navigation);
 
 activateBeacon();
-
-calibrate();
